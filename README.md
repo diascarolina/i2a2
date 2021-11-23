@@ -1,4 +1,4 @@
-# I2A2 Course
+# I2A2 Training
 
 https://www.i2a2.ca/
 
