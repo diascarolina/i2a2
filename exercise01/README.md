@@ -2,7 +2,7 @@
 
 Transform the text in [`text.txt`](https://github.com/diascarolina/i2a2/blob/main/exercise01/text.txt) into a matrix. Any method can be used.
 
-- [Solution]()
+- [Solution](https://github.com/diascarolina/i2a2/blob/main/exercise01/problem01.ipynb)
 
 # References
 
