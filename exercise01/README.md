@@ -14,3 +14,4 @@ Transform the text in [`text.txt`](https://github.com/diascarolina/i2a2/blob/mai
 - [Cosine Similarity – Understanding the math and how it works (with python codes)](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 - [Transforming a Text to Vector](https://stackoverflow.com/questions/17053459/how-to-transform-a-text-to-vector)
 - [Getting Started with Text Vectorization](https://towardsdatascience.com/getting-started-with-text-vectorization-2f2efbec6685)
+- [Word Embedding: fazendo o computador entender o significado das palavras](https://medium.com/turing-talks/word-embedding-fazendo-o-computador-entender-o-significado-das-palavras-92fe22745057)
