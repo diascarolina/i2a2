@@ -11,3 +11,7 @@ https://www.i2a2.ca/
 - **Lesson 03** - Statistics (09/11/2021)
 - **Lesson 04** - Linear Algebra (16/11/2021)
 - **Problem 01** - Words to Matrices (Due date: 28/11/2021)
+
+- **Lesson 05** - Problem Discussion (30/11/2021)
+- **Lesson 06** - CRISP-DM (01/12/2021)
+- **Lesson 07** - Intro to Python (15/02/2021)
