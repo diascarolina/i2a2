@@ -16,3 +16,4 @@ https://www.i2a2.ca/
 - **Lesson 06** - CRISP-DM (01/12/2021) ✅
 - **Lesson 07** - OOP in Python (15/12/2021) ✅
 - **Lesson 08** - Python, part 2 (22/12/2021)
+- **Problem 02** - Data Cleaning Practice (Due date: 09/01/2022)
