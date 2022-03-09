@@ -20,18 +20,18 @@ https://www.i2a2.ca/
 - **Lesson 08** - Python, part 2 (22/12/2021)
 - **Problem 02** - Data Cleaning Practice (Due date: 09/01/2022) ✅
 
-### Module 03 - 
+### Module 03 - Data Discovery and Understanding
 
-- **Lesson 09** - (11/01/2022) 
-- **Lesson 10** - (18/01/2022)
-- **Lesson 11** - (25/01/2022)
-- **Lesson 12** - (01/02/2022)
-- **Problem 03** - 
+- **Lesson 09** - Problem Discussion (11/01/2022) ✅
+- **Lesson 10** - Intro to Data Understanding (18/01/2022) ✅
+- **Lesson 11** - Types of Data (25/01/2022) ✅
+- **Lesson 12** - Data Quality (01/02/2022) ✅
+- **Problem 03** - [Kaggle Course in Data Cleaning](https://www.kaggle.com/learn/data-cleaning) (Due date: 15/02/2022) ✅
 
-### Module 04 - 
+### Module 04 - Machine Learning
 
-- **Lesson 13** - (11/01/2022) 
-- **Lesson 14** - (18/01/2022)
-- **Lesson 15** - (25/01/2022)
-- **Lesson 16** - (01/02/2022)
+- **Lesson 13** - Intro to Machine Learning (15/02/2022) ✅
+- **Lesson 14** - Types of Machine Learning: Supervised and Unsupervised (22/02/2022) ✅
+- **Lesson 15** - AutoML: Orange (01/03/2022)
+- **Lesson 16** - (08/03/2022)
 - **Problem 04** - 
