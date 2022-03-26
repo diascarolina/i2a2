@@ -33,5 +33,5 @@ https://www.i2a2.ca/
 - **Lesson 13** - Intro to Machine Learning (15/02/2022) ✅
 - **Lesson 14** - Types of Machine Learning: Supervised and Unsupervised (22/02/2022) ✅
 - **Lesson 15** - AutoML: Orange (01/03/2022)
-- **Lesson 16** - (08/03/2022)
+- **Lesson 16** - Dimensionality Reduction (08/03/2022)
 - **Problem 04** - 
